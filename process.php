@@ -1,3 +1,3 @@
 <?php
-  $_GET['data'];
+  ehco $_GET['data'];
 ?>
