@@ -10,8 +10,7 @@
         echo $key;
         echo "</td>";
         echo "</tr>";
-     echo "<table border='1'>";
-
+  echo "<table border='1'>";
   foreach ( $data[0] as $key => $val ){
         echo "<tr>";
         echo "<td>";
