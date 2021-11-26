@@ -4,19 +4,13 @@
 
   echo "<table border='1'>";
 
-  foreach ( $data[0] as $key => $val ){
-    echo $key.":".$val."<br>";
-  }
-
-  echo "</table>";
-?>
 <html>
   <head>
   </head>
   <body>
     <table border="1">
        <?php
-      for($i=0;$i<100;$i++){
+      for($i=0;$i<10;$i++){
           echo "<tr>";
           echo "<td>คอลัมน์1</td>";
           echo "<td>คอลัมน์2</td>";
@@ -27,3 +21,11 @@
     </table>
   </body>
 </html>
+
+  foreach ( $data[0] as $key => $val ){
+    echo $key.":".$val."<br>";
+  }
+
+  echo "</table>";
+?>
+
