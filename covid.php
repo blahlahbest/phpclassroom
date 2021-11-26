@@ -9,6 +9,7 @@
   }
 
   echo "</table>";
+?>
  <?php
       for($i=0;$i<100;$i++){
           echo "<tr>";
@@ -21,4 +22,3 @@
     </table>
   </body>
 </html>
-?>
