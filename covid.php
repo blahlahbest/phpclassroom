@@ -5,7 +5,7 @@
   echo "<table border='1'>";
 
   foreach ( $data[0] as $key => $val ){
-   echo "<tr>";
+    echo "<tr>";
 echo "<td>";
 echo $key;
 echo "</td>";
