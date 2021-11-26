@@ -3,7 +3,12 @@
   $data = json_decode($json);
 
   echo "<table border='1'>";
-  <?php
+ <html>
+  <head>
+  </head>
+  <body>
+    <table border="1">
+      <?php
       for($i=0;$i<10;$i++){
           echo "<tr>";
           echo "<td>txn_date1</td>";
@@ -19,3 +24,6 @@
 
   echo "</table>";
 ?>
+    </table>
+  </body>
+</html>
