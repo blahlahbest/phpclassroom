@@ -9,4 +9,11 @@
   }
 
   echo "</table>";
+  <?php
+      for($i=0;$i<100;$i++){
+          echo "<tr>";
+          echo "<td>คอลัมน์1</td>";
+          echo "<td>คอลัมน์2</td>";
+          
+          echo "</tr>";
 ?>
