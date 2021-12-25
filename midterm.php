@@ -12,7 +12,7 @@
   echo "<b>ลำดับ</b>";
   echo "</td>"; 
 
-  echo "<td bgcolor='#66FF66'.valign='middle'>"; 
+  echo "<td bgcolor='#66CC66'.valign='middle'>"; 
   echo "<b>จังหวัด</b>";
   echo "</td>";
 
@@ -20,20 +20,20 @@
   echo "<b>ผู้ป่วยใหม่</b>";
   echo "</td>";
 
-  echo "<td bgcolor='#66FF66'>"; 
+  echo "<td bgcolor='#66CC66'>"; 
   echo "<b>ผู้ป่วยรวม</b>";
   echo "</td>";
 
   echo "<td bgcolor='#FF66CC'>"; 
   echo "<b>ผู้ป่วยใหม่ในประเทศ</b>";
   echo "</td>";
-  echo "<td bgcolor='#66FF66'>"; 
+  echo "<td bgcolor='#66CC66'>"; 
   echo "<b>ผู้ป่วยรวมในประเทศ</b>";
   echo "</td>";
   echo "<td bgcolor='#FF66CC'>"; 
   echo "<b>ผู้เสียชีวิตใหม่</b>";
   echo "</td>";
-  echo "<td bgcolor='#66FF66'>"; 
+  echo "<td bgcolor='#66CC66'>"; 
   echo "<b>ผู้เสียชีวิตรวม</b>";
   echo "</td>";
   echo "<td bgcolor='#FF66CC'>"; 
