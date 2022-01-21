@@ -21,6 +21,10 @@
         height: 450px;
         background-color: gray;
       }
+      #footer{
+        height: 200px;
+        background-color: pink;
+      }
     </style>
     
   </head>
@@ -37,6 +41,11 @@
         </div>
         <div class="col-9" id="content"> <!-- คอนเท้นต์ -->
           <h1>Content</h1>
+        </div>
+      </div>
+       <div class="row">
+        <div class="col-12" id="footer"> <!-- ฟุตเตอร์ -->
+          <h1>Footer</h1>
         </div>
       </div>
     </div>  
