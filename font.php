@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(Crispy%20Tofu.woff);
+        src: url(iannnnn-DOG-Light.woff);
       }
       @font-face{
         font-family: myFont2;
-        src: url(shining.woff);
+        src: url(FC Candy.woff);
       }
       #font1{
         font-family: myFont;
