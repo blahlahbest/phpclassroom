@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(Crispy%20Tofu.woff);
+        src: url(FC%20Candy%20(1).woff);
       }
       #font1{
         font-family: myFont;
