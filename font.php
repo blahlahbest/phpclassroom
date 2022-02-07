@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(FC%20Candy%20(1).woff);
+        src: url(SanamDeklen_chaya.woff);
       }
       #font1{
         font-family: myFont;
