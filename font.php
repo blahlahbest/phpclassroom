@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(SanamDeklen_chaya.woff);
+        src: url(file:///C:/Users/Book/Downloads/Crispy%20Tofu.woff);
       }
       @font-face{
         font-family: myFont2;
-        src: url(Crispy%20Tofu.woff);
+        src: url(file:///C:/Users/Book/Downloads/SanamDeklen_chaya.woff);
       }
       #font1{
         font-family: myFont;
