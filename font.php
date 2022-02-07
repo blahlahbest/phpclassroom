@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(FC Candy.woff);
+        src: url(SP-Yok%20FFE-N.woff);
       }
       #font1{
         font-family: myFont;
